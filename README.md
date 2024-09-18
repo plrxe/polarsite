@@ -1,2 +1,0 @@
-# polarsite
-polar's website
